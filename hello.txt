@@ -16,3 +16,4 @@ hello git
 hello master
 hello hot-fix
 new test pull
+ssh test
